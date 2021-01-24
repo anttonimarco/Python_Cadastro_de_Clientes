@@ -1,2 +1,2 @@
 # Software_Python_v1
-Tentando desenvolver um programa de cadastro de clientes, simples para aprendizado.
+Desenvolvimento de um programa de cadastro de cliente se possível com produtos, com banco de dados, simples para aprendizado. Tudo o que aplico aqui é aprendizado por meio de video aulas, e procuras na internet, qualquer ajuda é bem vinda, muito obrigado.
