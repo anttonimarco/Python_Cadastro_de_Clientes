@@ -99,13 +99,11 @@ class menu_cadastro:  # Criação da classe.
         self.entrada_rg = Entry(self.menu)
         self.entrada_rg.place(relx=0.49, rely=0.19, relheight=0.03, relwidth=0.20)
 
-
         self.entrada_estado_civil = Entry(self.menu)
         self.entrada_estado_civil.place(relx=0.71, rely=0.19, relheight=0.03, relwidth=0.20)
 
         self.entrada_data_nascimento = Entry(self.menu)
         self.entrada_data_nascimento.place(relx=0.27, rely=0.26, relheight=0.03, relwidth=0.20)
-
 
         self.entrada_sexo = Entry(self.menu)
         self.entrada_sexo.place(relx=0.49, rely=0.26, relheight=0.03, relwidth=0.20)
